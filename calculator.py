@@ -1,4 +1,8 @@
-a=10
+a=100
 b=10
-res=a+b
-print(res)
+
+addition = a + b
+subtraction = a - b
+
+print("Addition:", addition)
+print("Subtraction:", subtraction)
